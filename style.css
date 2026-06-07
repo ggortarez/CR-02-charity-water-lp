@@ -1,4 +1,4 @@
-* {
+ * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -51,7 +51,7 @@ header {
 .hero {
     height: 100vh;
 
-    background-image: url("child-water.jpg");
+    background-image: url("img/child-water.jpg");
     background-size: cover;
     background-position: center;
 
